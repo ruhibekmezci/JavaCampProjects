@@ -3,7 +3,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/nortwind/pom.xml" />
         <option value="$PROJECT_DIR$/HRMSProject/pom.xml" />
       </list>
     </option>
