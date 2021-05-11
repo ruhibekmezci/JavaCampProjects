@@ -26,4 +26,3 @@ public class User {
 
     }
 }
-//10 Mayis degisiklikleri
